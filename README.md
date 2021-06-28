@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-    Letmeask
+    <img src="./src/assets/images/logo.svg" />
 </h1>
 
 <br>
